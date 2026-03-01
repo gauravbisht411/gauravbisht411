@@ -48,25 +48,6 @@ Currently expanding into **Agentic AI and autonomous systems on AWS (Amazon Bedr
 
 ---
 
-## 📂 Featured Projects
-
-### 🌦️ Weather AI Agent (Bedrock + Claude)
-Autonomous agent that:
-- Parses natural language
-- Plans tool usage
-- Calls external APIs
-- Synthesizes structured outputs
-
-### 🏗️ Enterprise Data Platform Architectures
-Examples of:
-- Lakehouse modernization
-- Cross-account 140TB migrations
-- ML platform re-architecture
-
-(More repositories being added...)
-
----
-
 ## 📈 Impact Highlights
 
 - Reduced compute cost by 30% through warehouse re-architecture  
