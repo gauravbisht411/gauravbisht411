@@ -17,8 +17,8 @@ Building data platforms and intelligent systems using cloud-native patterns.
 - AWS automation tools
 
 📫 Connect with me:
-LinkedIn: https://www.linkedin.com/in/gaurav-bisht-411  
-Email: your.email@example.com
+LinkedIn: [https://www.linkedin.com/in/gaurav-bisht-411](https://www.linkedin.com/in/gauravsinghbisht/)  
+Email: gauravbisht411@gmail.com
 
 ---
 
